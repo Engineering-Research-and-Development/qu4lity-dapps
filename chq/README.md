@@ -1,4 +1,4 @@
-﻿# clearing-house-qu4lity
+﻿# Quality Clearing House
 
 ## Introduzione e modello dati
 
