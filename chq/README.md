@@ -1,6 +1,6 @@
 ﻿# Quality Clearing House
 
-## Introduzione e modello dati
+## Introduction and data model
 
 Quality Clearing House (QCH)  is a generalized service for quality management in supply chain scenarios, supported by the infrastructure QU4LITY Blockchain.  Enable a common registration system for a manufacturing ecosystem in which actors must continuously evaluate the quality of raw materials, parts and final products and match results with contractual standards that can change frequently. 
 Thanks to Blockchain technology, QCH records are safe and reliable: they are immutable over time and cannot be repudiated. 
