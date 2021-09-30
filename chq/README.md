@@ -2,11 +2,11 @@
 
 ## Introduzione e modello dati
 
-Quality Clearing House (CHQ)  is a generalized service for quality management in supply chain scenarios, supported by the infrastructure QU4LITY Blockchain.  Enable a common registration system for a manufacturing ecosystem in which actors must continuously evaluate the quality of raw materials, parts and final products and match results with contractual standards that can change frequently. 
-Thanks to Blockchain technology, CHQ records are safe and reliable: they are immutable over time and cannot be repudiated. 
+Quality Clearing House (QCH)  is a generalized service for quality management in supply chain scenarios, supported by the infrastructure QU4LITY Blockchain.  Enable a common registration system for a manufacturing ecosystem in which actors must continuously evaluate the quality of raw materials, parts and final products and match results with contractual standards that can change frequently. 
+Thanks to Blockchain technology, QCH records are safe and reliable: they are immutable over time and cannot be repudiated. 
 Data Storage and business logic are replicated across all nodes, which are managed equally by all participants, so that there is no single "owner" of the system that can introduce bias into the process.
 
-The Supply Chain processes supported by CQH follow a simple model, the workflow of which is described below. To simplify the model and for simplicity, we have indicated distinct actors who play the three roles embodied in the system (Quality Master, Producer, Quality Assessor). However, in real-world supply chain processes, multiple organizations are likely to play the supplier role and / or a single organization to play the remaining roles.
+The Supply Chain processes supported by QCH follow a simple model, the workflow of which is described below. To simplify the model and for simplicity, we have indicated distinct actors who play the three roles embodied in the system (Quality Master, Producer, Quality Assessor). However, in real-world supply chain processes, multiple organizations are likely to play the supplier role and / or a single organization to play the remaining roles.
 
 All records are structured to have their own unique identifier, which is used internally for cross-referencing and are owned by the entity that creates them.
 
